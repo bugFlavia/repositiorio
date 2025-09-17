@@ -41,6 +41,9 @@ main p{
     line-height: 1.6;
     margin: 10px 0;
     padding: 15px;
+    font-size: 18px;
+    color: #333;
+    background-color: #f9f9f9;
 }
 
 footer {
