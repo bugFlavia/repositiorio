@@ -4,6 +4,10 @@
 }
 
 header {
+    background-image: url('img/logo.png');
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    background-size: contain;
     background-color: pink;
     padding: 10px 0;
     display: flex;
