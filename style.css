@@ -58,4 +58,8 @@ footer {
     background-color: pink;
     text-align: center;
     padding: 10px 0;
+    background-image: url('img/logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:right;
 }
